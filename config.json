@@ -18,7 +18,7 @@
     "azure" : {
         "client_id": "f5ee19e5-6522-46b8-9083-825511dca899",
         "client_secret": "nls8Q~PKIvMuB4WtA_J9ccqIDZrwt.~7bhj-PbGE",
-        "redirect_uri": "https://dungeongrindersauth,onrender.com/"
+        "redirect_uri": "https://dungeongrindersauth-i4ea.onrender.com"
     }
 }
  
