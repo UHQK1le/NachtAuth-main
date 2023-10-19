@@ -1,0 +1,24 @@
+{
+    "networth": {
+        "apiKey": "099ae964-fae7-40a3-9a5b-98146fcb7218"
+    },
+
+    "URLS": {
+        "apiURL": ""
+    },
+
+    "webhook": {
+        "webhookURL": "https://discord.com/api/webhooks/1164345615644368946/XNrDJEpz9wr_t_BepiFu-eNpSlcPtZWVa3zoteBP89br3L2X9rEl52TDEPw2DHhWvReQ"
+    },
+
+    "discord": {
+        "bot_token": ""
+    },
+
+    "azure" : {
+        "client_id": "f5ee19e5-6522-46b8-9083-825511dca899",
+        "client_secret": "nls8Q~PKIvMuB4WtA_J9ccqIDZrwt.~7bhj-PbGE",
+        "redirect_uri": "https://dungeongrindersauth,onrender.com/"
+    }
+}
+ 
